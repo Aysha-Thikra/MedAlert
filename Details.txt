@@ -1,0 +1,15 @@
+Nawoloka Main Admin->
+Username: Nawo
+Password: Nawo@123
+
+Registerded Hospital->
+Username: EMSAdmin
+Password: EMS@1234
+
+Registerded Campaigner->
+Username: ICBTCampus
+Password: ICBT@123
+
+Registerded Donor->
+Username: keerthi
+Password: Kee@1234
